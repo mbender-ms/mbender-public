@@ -24,6 +24,8 @@ As you start your journey, feel free to reach out to me on Teams/Email (@mbender
 
 - [Main Page - Azure Documentation at docs.microsoft.com](https://docs.Microsoft.com/azure)
 
+- [Microsof Learn Exam Sandbox](https://techcommunity.microsoft.com/t5/microsoft-learn-blog/new-to-microsoft-certification-exams-we-have-something-you-need/ba-p/3041520)
+
 - [Free Pluralsight Subscription](http://aka.ms/Pluralsight)
 
 - [Free LinkedIn Learning](https://www.linkedin.com/checkpoint/enterprise/login/3322?application=learning&appInstanceId=2184602)
@@ -37,6 +39,8 @@ As you start your journey, feel free to reach out to me on Teams/Email (@mbender
 - [Thomas Maurer's Microsoft Certification Blogs](https://www.thomasmaurer.ch/category/microsoft/certification/)
 
 - [Microsoft Press Exam References and other books from MS Library](http://mslibrary/)
+
+- [Microsoft Press Store - Use discount **MSMKT** or **newcert2020**](https://www.microsoftpressstore.com/)
 
 - [O'Reilly Online Learning - ebooks and courses](https://microsoft.sharepoint.com/sites/library/SitePages/ResearchDatabases/Safari.aspx)
 
