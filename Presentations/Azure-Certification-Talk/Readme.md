@@ -64,4 +64,7 @@ As you start your journey, feel free to reach out to me on Teams/Email (@mbender
 
 - [Exam review: AZ-900 Microsoft Azure Fundamentals by Sonia Cuff](https://techcommunity.microsoft.com/t5/itops-talk-blog/exam-review-az-900-microsoft-azure-fundamentals/ba-p/565041)
 
+- [Passing AZ-500 - Study Guide and free resources to pass the exam (zimmergren.net)](https://zimmergren.net/passing-az-500-microsoft-certified-azure-security-engineer-associate/)
+- [Exam Study Guide: SC-100 - Microsoft Cybersecurity Architect Expert (zimmergren.net)](https://zimmergren.net/exam-study-guide-sc100-microsoft-cybersecurity-architect-expert/)
+
 
