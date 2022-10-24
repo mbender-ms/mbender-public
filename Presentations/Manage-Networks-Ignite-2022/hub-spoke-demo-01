@@ -1,0 +1,69 @@
+# Demo 01: 
+
+## Problem
+1. Topologies – creating a model for virtual networks in the cloud can be challenging when you need to account for needs that you will have in the future.  You don’t want to paint yourself into a corner.
+    1. What model of topology do you need?
+    1. What model will fit your management pattern and provide you with the best possible fit?
+        1. Mesh
+        1. Hub & spoke
+
+## Solution
+
+1. Configure the [hub and spoke VNet model](.\images\hub-spoke-network-topology-architecture.png) with central services located in the hub including:
+    1. Bastion Hosts
+    1. Firewall
+    
+    <img src=".\images\hub-spoke-network-topology-architecture.png" alt="Diagram of Hub and Spoke Architecture" title="hub and spoke VNet model" />
+
+1. Deploy New VNet #3 and mesh with #2
+1. Route Server for X
+1. 
+1. 
+
+## Deploy solution
+Based on [Hub-spoke network topology in Azure - Architecture Center](https://learn.microsoft.com/en-us/azure/architecture/reference-architectures/hybrid-networking/hub-spoke?tabs=cli#deploy-this-scenario)
+
+```azurepowershell
+# Create resource group
+New-AzResourceGroup -Name hub-spoke -Location eastus
+```
+
+```azurepowershell
+Deploy hub and spoke network configuration
+New-AzResourceGroupDeployment -ResourceGroupName hub-spoke `
+    -TemplateUri https://raw.githubusercontent.com/mspnp/samples/main/solutions/azure-hub-spoke/azuredeploy.json
+```
+az deployment group create --resource-group hub-spoke --template-uri https://raw.githubusercontent.com/mspnp/samples/main/solutions/azure-hub-spoke/azuredeploy.json --parameters deployVirtualMachines=true adminUsername=azureadmin adminPassword=IgniteDemo2022#
+
+az deployment group create --resource-group hub-spoke --template-uri https://raw.githubusercontent.com/mspnp/samples/main/solutions/azure-hub-spoke/azuredeploy.json --parameters deployVirtualMachines=true adminUsername=azureadmin adminPassword=Password2023! deployVpnGateway=true
+IgniteDemo2022#
+
+## Verify Environment is set up
+
+## Configure Peering for Hub and Spoke
+
+## Test Internet connectivity from DemoVM01
+
+## Create Firewall rule for HTTP/HTTP
+
+1. Create firewall rule collection for 80/443
+
+## Test Internet connectivity
+
+1. Https://ignite.microsoft.com
+
+## Test Connectivity to DemoVM04 (web server)
+
+1. From Subnet01 > Subnet02
+1. http://100.200.0.5
+1. 
+1. 
+1. 
+
+## Create Additional Spoke - Portal
+
+1. 
+
+## Peer additional vnet - Hub-Spoke
+
+## Peer additional vnet - Mesh
