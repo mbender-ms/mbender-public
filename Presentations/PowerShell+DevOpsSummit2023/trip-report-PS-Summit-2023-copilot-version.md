@@ -23,6 +23,7 @@ Some takeaways from the event:
 - The PowerShell community is awesome! It was great to meet new people and hear their stories.
 - Everything changes when you meet in person. It was a game changer to be able to meet my team and other colleagues in person.
 - Seeing how Mike and Sean ran the doc-a-thon, I'm looking forward to trying out the concept in the Azure Networking library.
+- I talked with a number of people about Docs and what they like and don't like. Freshness, accessibility, and accuracy were the top three things that came up. Videos and interactive content were also mentioned.
 - It was great to hear what people are doing with AI, ChatGPT, and the future of work. I'm definitely planning on talks around this topic in the future.
 
 Overall, it was an amazing experience and I'm already looking forward to next year's summit. If you're interested in learning more about the sessions, check out pshsummit2023.sessionize.com.
