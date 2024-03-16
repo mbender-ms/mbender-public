@@ -1,13 +1,4 @@
-#Interview Guide and Assistance for your Microsoft Career Journey
-
-## Table of Contents
-- [Table of Contents](#table-of-contents)
-- [Introduction](#introduction)
-- [Interview Process](#interview-process)
-- [Interview Preparation](#interview-preparation)
-- [Interview Tips](#interview-tips)
-- [Interview Questions](#interview-questions)
-- [Interview Resources](#interview-resources)
+# Interview Guide and Assistance for your Microsoft Career Journey
 
 ## Introduction
 
