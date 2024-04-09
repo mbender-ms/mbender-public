@@ -1,13 +1,18 @@
-My apologies for the initial brevity. Let's dive into a more detailed training guide for the **Mini Shredder** based on the product page you provided:
-
-## **Mini Shredder Training Guide**
+## **Plastics Shredder Training Guide**
 
 ### **1. Product Overview**
-The **Mini Shredder** is designed for recycling 3D printed plastics such as ABS, PLA, and PVC. It's a compact and efficient solution for reducing waste materials.
+The **Plastics Shredder** is designed for recycling 3D printed plastics PLA and home recyclable softs plastics like HDPE. 
 
+**NOTE: Use of the plastics shredder is a
 
 ### **3. Usage Instructions**
-1. **Load Materials**: Open the shredder's hopper and place the 3D printed plastics inside. Ensure that the materials are clean and free from foreign objects.
+1. **Material Prep**: Before using the shredder on your plastic waste, please ensure it is clean, dry, and sized for the shredder.
+   1. All household plastics such as HDPE need to be washed and dried w/ all labels removed.
+      1. One suggestion is to take all plastics, place in a cloth bag and wash in a dishwasher or washing machine. Then dry on low/no heat in dryer or layout to dry on a towel.
+   3. **DO NOT** shred plastic with any form of a label attached.
+   4. All 3D prints need to be broken into smaller pieces. The shredder will not shred large, whole prints.
+
+1. **Load Materials**: Open the shredder's hopper and place the plastics inside. Ensure that the materials are clean and free from foreign objects.
    1. Materials should be dry and free from moisture to ensure optimal shredding performance.
    2. **Do not shred full-scale 3D printed objects**. Cut them into smaller pieces before loading them into the hopper.
    3. To improve shredding efficiency, reduce the size of the materials by cutting them into smaller pieces.
@@ -53,3 +58,4 @@ Remember to follow safety precautions while operating the Mini Shredder. Always 
   - **Solution**: This may occur when the shredder is jammed or overloaded. Reverse the shredder to clear the jam. If the jam persists, turn off the power and manually remove the obstruction.
   - **Solution**: Turn off the machine, unplug it, and clear any obstructions.
   - **Solution**: If the belt continues to slip, contact the Tool Captain for assistance.
+
